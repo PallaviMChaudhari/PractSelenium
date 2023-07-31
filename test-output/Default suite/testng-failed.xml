@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="zohoPom.ZohoTestProp">
+      <class name="practiceTestNg.TestClassFb">
         <methods>
-          <include name="logoutApp"/>
-          <include name="lanuchApp"/>
-          <include name="VerifyUn"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- zohoPom.ZohoTestProp -->
+      </class> <!-- practiceTestNg.TestClassFb -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
